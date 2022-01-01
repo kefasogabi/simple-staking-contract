@@ -1,1 +1,19 @@
 /* Styles go here */
+body {
+    background-color: #040714;
+    color: #f9f9f9;
+    font-family: Avenir-Roman, sans-serif;
+    padding: 0;
+    margin: 0;
+  }
+
+.main__card{
+    background-color: rgb(59, 59, 59) !important;
+    backdrop-filter: blur(5px);
+    color: #f9f9f9;
+}
+
+.inputClass{
+    background-color:  rgba(160, 33, 33, 0.15) !important;
+    color: white !important;
+}
